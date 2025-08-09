@@ -16,6 +16,9 @@ This repository serves as a **template for new projects**, providing a consisten
 3. Make sure to include all files.
 4. Click **"Create repository from template"**.
 5. Done! Your new repository will be created with this base structure.
+6. Go to the **Actions** tab on GitHub, select the **Create default labels** workflow, and click **Run workflow** to create the default issue and PR labels automatically.
+
+
 
 ---
 
